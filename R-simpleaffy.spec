@@ -2,12 +2,12 @@
 
 Summary:	Very simple high level analysis of Affymetrix data
 Name:		R-%{packname}
-Version:	2.34.0
+Version:	2.38.0
 Release:	1
 License:	GPL v2+
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	63e0aa6b2b1737ee748cd55f646a8e80
+# Source0-md5:	68fbe75b4e04265c0fe43610afdeff04
 URL:		http://www.bioconductor.org/packages/release/bioc/html/simpleaffy.html
 BuildRequires:	R-Biobase
 BuildRequires:	R
