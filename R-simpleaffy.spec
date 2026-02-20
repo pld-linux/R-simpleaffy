@@ -3,7 +3,7 @@
 Summary:	Very simple high level analysis of Affymetrix data
 Name:		R-%{packname}
 Version:	2.38.0
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
